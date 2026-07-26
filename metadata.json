@@ -1,0 +1,6 @@
+{
+  "name": "HackGuard Academy",
+  "description": "Application pédagogique d'apprentissage du piratage éthique et de la cybersécurité avec simulations et défis CTF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
